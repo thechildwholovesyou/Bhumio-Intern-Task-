@@ -1,0 +1,13 @@
+.modal-container {
+  height: 30rem;
+  width: 60rem;
+  border: 3px solid black;
+}
+
+.fileSection{
+    margin: auto;
+    margin-top: 10px;
+    height: 10rem;
+    width: 50rem;
+    border: 3px solid black;
+}
